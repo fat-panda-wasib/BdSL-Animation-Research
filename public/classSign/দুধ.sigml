@@ -1,0 +1,21 @@
+
+
+<hamgestural_sign gloss="milk1">
+  <sign_manual both_hands="true" lr_symm="true" outofphase="true" ud_symm="true">
+    <handconfig handshape="finger2345" mainbend="round" thumbpos="opposed"/>
+    <handconfig extfidir="o"/>
+    <handconfig palmor="l"/>
+    <location_bodyarm location="shoulders" second_location="chest"/>
+    <rpt_motion repetition="fromstart_several">
+      <seq_motion fused="true">
+        <directedmotion direction="d" fast="true" size="small"/>
+        <directedmotion direction="u" fast="true"/>
+        <tgt_motion fast="true">
+          <changeposture/>
+          <handconfig handshape="fist" thumbpos="across"/>
+        </tgt_motion>
+      </seq_motion>
+    </rpt_motion>
+  </sign_manual>
+</hamgestural_sign>
+

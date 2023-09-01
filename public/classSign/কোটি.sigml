@@ -1,0 +1,8 @@
+<hamgestural_sign gloss="crore">
+  <sign_manual>
+    <handconfig ceeopening="tight" handshape="ceeall"/>
+    <handconfig extfidir="up"/>
+    <handconfig palmor="l"/>
+    <location_bodyarm location="shouldertop"/>
+  </sign_manual>
+</hamgestural_sign>

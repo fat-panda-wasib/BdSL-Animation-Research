@@ -1,0 +1,16 @@
+
+<hamgestural_sign gloss="bird1">
+  <sign_manual both_hands="true" lr_symm="true">
+    <handconfig handshape="flat" second_handshape="flat" second_thumbpos="out"/>
+    <handconfig extfidir="r" second_extfidir="o"/>
+    <handconfig palmor="d"/>
+    <location_bodyarm contact="close" location="shouldertop" side="right_beside"/>
+    <directedmotion direction="ir" fast="true"/>
+    <nonman_motion>
+      <handconfig bodypart="elbow"/>
+      <directedmotion direction="l"/>
+    </nonman_motion>
+    <wristmotion motion="nodding" size="small"/>
+  </sign_manual>
+</hamgestural_sign>
+

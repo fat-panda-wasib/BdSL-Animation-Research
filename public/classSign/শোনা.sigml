@@ -1,0 +1,18 @@
+
+
+<hamgestural_sign gloss="hear1">
+  <sign_manual>
+    <handconfig handshape="ceeall" mainbend="bent"/>
+    <handconfig extfidir="u"/>
+    <handconfig palmor="l"/>
+    <location_bodyarm contact="close" location="ear" side="right_at"/>
+    <rpt_motion repetition="fromstart_several">
+      <tgt_motion>
+        <changeposture/>
+        <handconfig handshape="pinchall" mainbend="bent"/>
+      </tgt_motion>
+    </rpt_motion>
+  </sign_manual>
+</hamgestural_sign>
+
+

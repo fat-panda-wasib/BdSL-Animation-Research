@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sigml SYSTEM "http://www.visicast.cmp.uea.ac.uk/sigml/sigml.dtd">
+<sigml>
+
+<hamgestural_sign gloss="car1">
+  <sign_manual>
+    <sign_manual both_hands="true" outofphase="true" ud_symm="true">
+      <handconfig handshape="fist" thumbpos="across"/>
+      <handconfig extfidir="o"/>
+      <handconfig palmor="ul"/>
+      <location_bodyarm contact="close" location="chest"/>
+      <split_motion>
+        <seq_motion>
+          <directedmotion direction="ur"/>
+          <directedmotion direction="dl"/>
+        </seq_motion>
+        <nomotion/>
+      </split_motion>
+      <rpt_motion repetition="reverse">
+        <split_motion>
+          <nomotion/>
+          <directedmotion direction="ul"/>
+        </split_motion>
+      </rpt_motion>
+    </sign_manual>
+    <sign_manual both_hands="true" lr_symm="true">
+      <split_handconfig>
+        <handconfig handshape="flat" mainbend="hooked" second_handshape="flat" second_thumbpos="opposed" thumbpos="opposed"/>
+        <handconfig handshape="flat" mainbend="hooked" second_handshape="flat" second_thumbpos="opposed" thumbpos="opposed"/>
+      </split_handconfig>
+      <split_handconfig>
+        <handconfig extfidir="u" palmor="l"/>
+        <handconfig extfidir="u" palmor="r"/>
+      </split_handconfig>
+      <split_location>
+        <location_bodyarm contact="close" location="shoulders" side="right_at"/>
+        <location_bodyarm location="shoulders"/>
+      </split_location>
+      <split_motion>
+        <tgt_motion>
+          <directedmotion direction="ir"/>
+          <location_bodyarm contact="close" location="neck" side="right_at"/>
+        </tgt_motion>
+        <directedmotion direction="o" size="small"/>
+      </split_motion>
+    </sign_manual>
+  </sign_manual>
+</hamgestural_sign>
+
+</sigml>

@@ -1,0 +1,11 @@
+
+<hamgestural_sign gloss="zero1">
+  <sign_manual>
+    <handconfig handshape="pinchall"/>
+    <handconfig extfidir="u"/>
+    <handconfig palmor="l"/>
+    <location_bodyarm location="lips"/>
+    <directedmotion direction="o"/>
+  </sign_manual>
+</hamgestural_sign>
+

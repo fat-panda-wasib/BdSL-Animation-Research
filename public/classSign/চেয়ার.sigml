@@ -1,0 +1,15 @@
+
+
+<hamgestural_sign gloss="chair1">
+  <sign_manual both_hands="true" lr_symm="true">
+    <handconfig handshape="fist" thumbpos="across"/>
+    <handconfig extfidir="o"/>
+    <handconfig palmor="l"/>
+    <location_bodyarm location="shoulders"/>
+    <rpt_motion repetition="fromstart">
+      <directedmotion direction="d" size="small"/>
+    </rpt_motion>
+  </sign_manual>
+</hamgestural_sign>
+
+

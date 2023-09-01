@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+* {
+    margin    : 0;
+    padding   : 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color : #fafafa;
+}
+
+.navbar {
+    margin-top   : 25px;
+    margin-bottom: 25px;
+}
+
+ul {
+    display        : flex;
+    align-items    : stretch;
+    /* Default */
+    justify-content: space-between;
+    width          : 100%;
+    margin         : 0;
+    padding        : 0;
+}
+
+li {
+    display        : block;
+    flex           : 0 1 auto;
+    /* Default */
+    list-style-type: none;
+
+    font-size      : 20px;
+    font-weight    : 700;
+
+    ;
+}
+
+
+.header {
+    display        : flex;
+    justify-content: center;
+    align-items    : space-between;
+    margin-top     : 50px;
+    margin-bottom  : 50px;
+}
+
+.sign {
+    font-family: 'Inter', sans-serif;
+    font-size  : 18px;
+    font-weight: 500;
+    color      : #22A699;
+    text-align : justify;
+
+
+}
+
+h1 {
+    color: #4C4C6D;
+    font-size: 30px;
+    margin: 10px;
+}
+
+.main_para {
+    font-family: 'Inter', sans-serif;
+    font-size  : 18px;
+    font-weight: 500;
+    color      : #22A699;
+    text-align : justify;
+}
+
+.active{
+    text-decoration: none;
+
+}
+
+
+
+.divCtrlPanel{
+    visibility:hidden;
+}
+
+
+/*
+still not developed
+#textShow{
+    float:right;
+    font-size: 20px;
+    padding-left: 130px;
+    padding-right: 150px;
+
+    border:1px solid yellow;
+    background-color: #22A699;
+    height: 45px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+
+} */
+
+
+.textOnly{
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+}
+
+span{
+    padding: 5px;
+    border: 1px solid #22A699;
+    background-color: #22A699;
+    margin:5px;
+    border-radius: 5px;
+    width:450px;
+}
+
+.alpha{
+    padding: 10px;
+    font-size:20px;
+}
+
+
+.word{
+    padding: 10px;
+    font-size:20px;
+}
+
+
+.img{
+    height:350px;
+    width: 307px;
+}
+
+.CWASASpeed{
+    margin-left:400px;
+    margin-top: 20px;
+}

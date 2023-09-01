@@ -1,0 +1,22 @@
+
+
+<hamgestural_sign gloss="rice1">
+  <sign_manual>
+    <sign_manual>
+      <handconfig handshape="finger2" mainbend="bent" thumbpos="across"/>
+      <handconfig extfidir="u"/>
+      <handconfig palmor="l"/>
+      <location_bodyarm contact="touch" location="eyes" side="right_beside">
+        <location_hand digits="2" location="tip" side="left_beside"/>
+      </location_bodyarm>
+    </sign_manual>
+    <sign_manual>
+      <handconfig handshape="pinch12" mainbend="bent" second_handshape="pinch12"/>
+      <handconfig extfidir="uo"/>
+      <handconfig palmor="u"/>
+      <location_bodyarm location="shoulders" side="right_at"/>
+      <fingerplay/>
+    </sign_manual>
+  </sign_manual>
+</hamgestural_sign>
+
