@@ -79,11 +79,20 @@
         <h1>Students</h1>
         <div class="row">
             <div class="col-md-3">
-                <img src="{{ asset('image/owasib.png') }}" alt="Image"  class="img" style="border-radius: 3px">
+                <img src="{{ asset('image/owasib.png') }}" alt="Image"  class="img" style="border-radius: 5px">
                 <div class="card-body" style="background-color: #00DFA2">
                   <h5 class="card-title">Ahsanul Karim</h5>
                   <h6 class="card-subtitle mb-2 text-muted ">Student</h6>
                   <p class="card-text"> ahsanulkarim5690@gmail.com</p>
+
+                </div>
+            </div>
+            <div class="col-md-3">
+                <img src="{{ asset('image/arif2.png') }}" alt="Image" class="img"  style="border-radius: 5px">
+                <div class="card-body" style="background-color: #00DFA2">
+                  <h5 class="card-title">Md. Ariful Islam</h5>
+                  <h6 class="card-subtitle mb-2 text-muted ">Student</h6>
+                  <p class="card-text"> ariful.cse.gub@gmail.com</p>
 
                 </div>
             </div>
@@ -93,15 +102,6 @@
                   <h5 class="card-title">Md. Ariful Islam</h5>
                   <h6 class="card-subtitle mb-2 text-muted ">Student</h6>
                   <p class="card-text"> arifcse209@gmail.com</p>
-
-                </div>
-            </div>
-            <div class="col-md-3">
-                <img src="{{ asset('image/arif2.png') }}" alt="Image" class="img"  style="border-radius: 7px">
-                <div class="card-body" style="background-color: #00DFA2">
-                  <h5 class="card-title">Md. Ariful Islam</h5>
-                  <h6 class="card-subtitle mb-2 text-muted ">Student</h6>
-                  <p class="card-text"> ariful.cse.gub@gmail.com</p>
 
                 </div>
             </div>

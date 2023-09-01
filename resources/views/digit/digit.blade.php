@@ -87,13 +87,26 @@
                 </div>
 
                 <div class="textOnly">
-                    <h1 class="h3">Digit Only</h1>
+                    <h1 class="h3">Composite Number</h1>
                     <span>১৪৭৫৭০</span>
 
                     <span> ২০১৯২০২৩</span>
                 </div>
 
-
+                <div class="fs-3">
+                    <h1 class="h3">Only Digit</h1>
+                        
+                    <span>০</span>
+                    <span>১</span>
+                    <span>২</span>
+                    <span>৩</span>
+                    <span>৪</span>
+                    <span>৫</span>
+                    <span>৬</span>
+                    <span>৭</span>
+                    <span>৮</span>
+                    <span>৯</span>
+                    </div>
 
             </div>
             <div class="col-md-6">
